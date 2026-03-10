@@ -1,2 +1,3 @@
 uploads/
-output/
+output/posts/*/images/
+.DS_Store
